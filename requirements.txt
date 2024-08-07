@@ -1,0 +1,8 @@
+setuptools
+numpy
+pandas
+pysam
+scipy
+tables
+collections
+python>=3.6
