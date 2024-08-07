@@ -17,7 +17,7 @@ mrnaScan -h
 ~~~
 
 ## Output
-* *_exon_info.h5: a hdf5 file of count table of pesudo-transcripts and their exon information
+* *_exon_info.h5: a hdf5 file include count table of pesudo-transcripts and their exon information
 * *_utr_info.tsv: a tab-separated table of 3'utr length of each gene
 
 ## Features
