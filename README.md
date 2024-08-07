@@ -16,12 +16,12 @@ mrnaScan [options] -i <input.bam> -r <reference.gtf>
 mrnaScan -h
 ~~~
 
+## Output
+* *_exon_info.h5: a hdf5 file of count table of pesudo-transcripts and their exon information
+* *_utr_info.tsv: a tab-separated table of 3'utr length of each gene
+
 ## Features
 * The exons and 3'utr of each reads
 * The pesudo-transcripts defined via the combination of exons
 * The count table of pesudo-transcripts
 * Other feature would be supported in the future ...
-
-## Output
-* *_exon_info.h5: a hdf5 file of count table of pesudo-transcripts and their exon information
-* *_utr_info.tsv: a tab-separated table of 3'utr length of each gene
